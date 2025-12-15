@@ -1,0 +1,8 @@
+*.png
+*.DS_Store
+*.pkl
+*.json
+*.zip
+*.txt
+*.pth
+*.pickle
